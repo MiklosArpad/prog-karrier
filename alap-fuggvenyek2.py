@@ -32,7 +32,5 @@ def fuggveny(a=111, *szamok, **mellekek):
 fuggveny(222, 1, 2, 3,4, 5, Bela=1234, Geza=5678, Janka=1357)
 
 
-
-
 """ https://www.youtube.com/watch?v=zP6Cko_fm8E """
 
