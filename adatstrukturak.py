@@ -56,3 +56,5 @@ print(tobb_orszag_halmaz.issuperset(orszagok_halmaza))         # részhalmaz-e ?
 orszagok_halmaza.remove("UK")
 print(orszagok_halmaza & tobb_orszag_halmaz)                   # halamzok metszete
 print(orszagok_halmaza.intersection(tobb_orszag_halmaz))
+
+"""  https://www.youtube.com/watch?v=oXsVjzs5psg   """
